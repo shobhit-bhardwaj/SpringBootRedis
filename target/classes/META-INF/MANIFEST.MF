@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRedis
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: A1000891
+Implementation-Vendor-Id: com.shobhit.redis
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootRedis
+Created-By: Maven Integration for Eclipse
+
